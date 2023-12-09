@@ -7,7 +7,7 @@ import {MatTooltipModule} from "@angular/material/tooltip";
 import {MatFormFieldModule} from "@angular/material/form-field";
 import {MatInputModule} from "@angular/material/input";
 import {FormControl, FormsModule, ReactiveFormsModule} from "@angular/forms";
-import {IsViewerDisabledDirective} from "./is-viewer-disabled.directive";
+import {IsViewerDisabledDirective} from "./directive/is-viewer-disabled.directive";
 
 @Component({
   selector: 'app-root',
