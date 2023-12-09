@@ -1,0 +1,21 @@
+.example-full-width {
+  width: 400px;
+}
+
+.space {
+  height: 20px;
+}
+
+
+  .mat-mdc-raised-button:not(:disabled).disabled-button {
+    cursor: not-allowed;!important;
+    background-color: #e5e7eb;!important;
+    box-shadow: none;
+  }
+  .mat-mdc-raised-button:not(:disabled):hover.disabled-button {
+    cursor: not-allowed;!important;
+    background-color: #e5e7eb;!important;
+    box-shadow: none;
+  }
+
+
